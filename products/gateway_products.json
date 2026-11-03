@@ -1,0 +1,632 @@
+[
+  {
+    "id": "axs2005",
+    "series": "AXS2005",
+    "name": "AXS2005系列",
+    "title": "5口百兆非网管导轨式交换机",
+    "category": "非网管型",
+    "speed": "百兆",
+    "ports": 5,
+    "image": "/products/axs2005_product.png",
+    "image2": "/products/axs2005_product2.png",
+    "dimensions": "/products/axs2005_dimensions.jpg",
+    "description": "5口百兆非网管导轨式交换机，专为工业环境设计，支持DIN导轨安装",
+    "features": [
+      "支持IEEE 802.3 10BASE-T、IEEE 802.3u 100BASE-TX/FX标准",
+      "支持IEEE 802.3at/af POE供电",
+      "缓冲器大小512K，MAC表1K",
+      "交换时延<10us",
+      "支持1*9光口(SC/ST/FC接口可选)和SFP光口(LC/SC可选)",
+      "单模/多模、单纤/双纤、距离可选",
+      "DIN导轨式安装，适应工业环境"
+    ],
+    "models": [
+      {
+        "model": "AXS2005D-5MR",
+        "pwr1": "WD",
+        "pwr2": "WD",
+        "eth_ports": "5",
+        "poe_ports": "",
+        "fiber_19": "",
+        "sfp": ""
+      },
+      {
+        "model": "AXS2005D-5MR-4POE",
+        "pwr1": "ND",
+        "pwr2": "ND",
+        "eth_ports": "5",
+        "poe_ports": "4",
+        "fiber_19": "",
+        "sfp": ""
+      },
+      {
+        "model": "AXS2005D-1MX-4MR",
+        "pwr1": "WD",
+        "pwr2": "WD",
+        "eth_ports": "4",
+        "poe_ports": "",
+        "fiber_19": "1",
+        "sfp": ""
+      },
+      {
+        "model": "AXS2005D-1MX-4MR-4POE",
+        "pwr1": "ND",
+        "pwr2": "ND",
+        "eth_ports": "4",
+        "poe_ports": "4",
+        "fiber_19": "1",
+        "sfp": ""
+      }
+    ],
+    "specs": {
+      "标准": "IEEE 802.3 10BASE-T, IEEE 802.3u 100BASE-TX/FX, IEEE 802.3at/af (POE)",
+      "缓冲器": "512K",
+      "MAC表": "1K",
+      "交换时延": "<10us",
+      "光口": "1*9: SC/ST/FC可选; SFP: LC/SC可选; 单模/多模、单纤/双纤",
+      "电口": "RJ45, 10/100Mbps自适应",
+      "POE": "支持802.3at/af, 单口最大30W",
+      "电源": "WD: 12-57VDC; ND: 44-57VDC",
+      "安装方式": "DIN导轨式",
+      "防护等级": "IP40",
+      "工作温度": "-40°C ~ +75°C"
+    }
+  },
+  {
+    "id": "axs2110",
+    "series": "AXS2110",
+    "name": "AXS2110系列",
+    "title": "10口百兆非网管导轨式交换机",
+    "category": "非网管型",
+    "speed": "百兆",
+    "ports": 10,
+    "image": "/products/axs2110_product.png",
+    "image2": "/products/axs2110_product2.png",
+    "dimensions": "/products/axs2110_dimensions.jpg",
+    "description": "10口百兆非网管导轨式交换机，更多接口满足复杂组网需求",
+    "features": [
+      "支持IEEE 802.3 10BASE-T、IEEE 802.3u 100BASE-TX/FX标准",
+      "支持IEEE 802.3at/af POE供电",
+      "缓冲器大小1M，MAC表4K",
+      "交换时延<10us",
+      "支持1*9光口和SFP光口，灵活配置",
+      "单模/多模、单纤/双纤、距离可选",
+      "DIN导轨式安装，适应工业环境"
+    ],
+    "models": [
+      {
+        "model": "AXS2110D-2MX-8MR",
+        "pwr1": "WD",
+        "pwr2": "WD",
+        "eth_ports": "8",
+        "poe_ports": "",
+        "fiber_19": "2",
+        "sfp": ""
+      },
+      {
+        "model": "AXS2110D-2MX-6MR",
+        "pwr1": "WD",
+        "pwr2": "WD",
+        "eth_ports": "6",
+        "poe_ports": "",
+        "fiber_19": "2",
+        "sfp": ""
+      },
+      {
+        "model": "AXS2110D-2MF-8MR",
+        "pwr1": "WD",
+        "pwr2": "WD",
+        "eth_ports": "8",
+        "poe_ports": "",
+        "fiber_19": "",
+        "sfp": "2"
+      },
+      {
+        "model": "AXS2110D-2MF-6MR",
+        "pwr1": "WD",
+        "pwr2": "WD",
+        "eth_ports": "6",
+        "poe_ports": "",
+        "fiber_19": "",
+        "sfp": "2"
+      }
+    ],
+    "specs": {
+      "标准": "IEEE 802.3 10BASE-T, IEEE 802.3u 100BASE-TX/FX, IEEE 802.3at/af (POE)",
+      "缓冲器": "1M",
+      "MAC表": "4K",
+      "交换时延": "<10us",
+      "光口": "1*9: SC/ST/FC可选; SFP: LC/SC可选; 单模/多模、单纤/双纤",
+      "电口": "RJ45, 10/100Mbps自适应",
+      "POE": "支持802.3at/af, 单口最大30W",
+      "电源": "WD: 12-57VDC; ND: 44-57VDC",
+      "安装方式": "DIN导轨式",
+      "防护等级": "IP40",
+      "工作温度": "-40°C ~ +75°C"
+    }
+  },
+  {
+    "id": "axs5005",
+    "series": "AXS5005",
+    "name": "AXS5005系列",
+    "title": "5口千兆非网管导轨式交换机",
+    "category": "非网管型",
+    "speed": "千兆",
+    "ports": 5,
+    "image": "/products/axs5005_product.png",
+    "dimensions": "/products/axs5005_dimensions.jpg",
+    "description": "5口千兆非网管导轨式交换机，千兆速率满足高带宽需求",
+    "features": [
+      "支持IEEE 802.3z 1000BASE-X、IEEE 802.3ab 1000BASE-T标准",
+      "支持IEEE 802.3at/af POE供电",
+      "缓冲器大小1M，MAC表8K",
+      "交换时延<10us",
+      "支持1*9光口和SFP光口",
+      "千兆速率，满足高带宽传输需求",
+      "DIN导轨式安装，适应工业环境"
+    ],
+    "models": [
+      {
+        "model": "AXS5005D-5GR",
+        "pwr1": "WD",
+        "pwr2": "WD",
+        "eth_ports": "5",
+        "poe_ports": "",
+        "fiber_19": "",
+        "sfp": ""
+      },
+      {
+        "model": "AXS5005D-5GR-4POE",
+        "pwr1": "ND",
+        "pwr2": "ND",
+        "eth_ports": "5",
+        "poe_ports": "4",
+        "fiber_19": "",
+        "sfp": ""
+      },
+      {
+        "model": "AXS5005D-1GX-4GR",
+        "pwr1": "WD",
+        "pwr2": "WD",
+        "eth_ports": "4",
+        "poe_ports": "",
+        "fiber_19": "1",
+        "sfp": ""
+      },
+      {
+        "model": "AXS5005D-1GX-4GR-4POE",
+        "pwr1": "ND",
+        "pwr2": "ND",
+        "eth_ports": "4",
+        "poe_ports": "4",
+        "fiber_19": "1",
+        "sfp": ""
+      }
+    ],
+    "specs": {
+      "标准": "IEEE 802.3, 802.3u, 802.3z 1000BASE-X, 802.3ab 1000BASE-T, 802.3at/af",
+      "缓冲器": "1M",
+      "MAC表": "8K",
+      "交换时延": "<10us",
+      "光口": "1*9: SC/ST/FC可选; SFP: LC/FC可选",
+      "电口": "RJ45, 10/100/1000Mbps自适应",
+      "POE": "支持802.3at/af, 单口最大30W",
+      "电源": "WD: 12-57VDC; ND: 44-57VDC",
+      "安装方式": "DIN导轨式",
+      "防护等级": "IP40",
+      "工作温度": "-40°C ~ +75°C"
+    }
+  },
+  {
+    "id": "axs3005",
+    "series": "AXS3005",
+    "name": "AXS3005系列",
+    "title": "5口百兆管理型导轨式交换机",
+    "category": "管理型",
+    "speed": "百兆",
+    "ports": 5,
+    "image": "/products/axs3109_product.png",
+    "dimensions": "/products/axs3005_dimensions.png",
+    "description": "5口百兆管理型导轨式交换机，支持VLAN、QoS等高级功能",
+    "features": [
+      "支持802.1Q VLAN、端口管理、MAC地址表管理",
+      "支持设备用户权限分级管理",
+      "支持http/https/Telnet/SSH设备管理接口",
+      "支持SNMP V1/2/3网络管理",
+      "支持端口速率/双工/流控配置",
+      "支持静态MAC地址表配置，可配置老化时间",
+      "DIN导轨式安装，适应工业环境"
+    ],
+    "models": [
+      {
+        "model": "AXS3005D-2MF-3MR",
+        "pwr1": "WD",
+        "pwr2": "WD",
+        "eth_ports": "3",
+        "poe_ports": "",
+        "fiber_19": "",
+        "sfp": "2"
+      }
+    ],
+    "specs": {
+      "标准": "IEEE 802.3, 802.3u, 802.3at/af",
+      "VLAN": "支持802.1Q VLAN",
+      "端口管理": "支持端口速率/双工/流控配置",
+      "MAC地址表": "支持静态配置，可配置老化时间",
+      "设备管理": "http/https/Telnet/SSH/SNMP V1/2/3",
+      "安全": "支持用户权限分级",
+      "电口": "RJ45, 10/100Mbps自适应",
+      "光口": "SFP可选",
+      "电源": "WD: 12-57VDC",
+      "安装方式": "DIN导轨式",
+      "工作温度": "-40°C ~ +75°C"
+    }
+  },
+  {
+    "id": "axs3109",
+    "series": "AXS3109",
+    "name": "AXS3109系列",
+    "title": "9口百兆管理型导轨式交换机",
+    "category": "管理型",
+    "speed": "百兆",
+    "ports": 9,
+    "image": "/products/axs3109_product.png",
+    "dimensions": "/products/axs3005_dimensions.png",
+    "description": "9口百兆管理型导轨式交换机，更多接口满足复杂工业网络需求",
+    "features": [
+      "支持802.1Q VLAN、端口管理、MAC地址表管理",
+      "支持设备用户权限分级管理",
+      "支持http/https/Telnet/SSH设备管理接口",
+      "支持SNMP V1/2/3网络管理",
+      "支持端口速率/双工/流控配置",
+      "9个接口，满足更复杂的组网需求",
+      "DIN导轨式安装，适应工业环境"
+    ],
+    "models": [
+      {
+        "model": "AXS3109D-3MX-6MR",
+        "pwr1": "WD",
+        "pwr2": "WD",
+        "eth_ports": "6",
+        "poe_ports": "",
+        "fiber_19": "3",
+        "sfp": ""
+      },
+      {
+        "model": "AXS3109D-2MX-6MR",
+        "pwr1": "WD",
+        "pwr2": "WD",
+        "eth_ports": "6",
+        "poe_ports": "",
+        "fiber_19": "2",
+        "sfp": ""
+      },
+      {
+        "model": "AXS3109D-3MF-6MR",
+        "pwr1": "WD",
+        "pwr2": "WD",
+        "eth_ports": "6",
+        "poe_ports": "",
+        "fiber_19": "",
+        "sfp": "3"
+      },
+      {
+        "model": "AXS3109D-2MF-6MR",
+        "pwr1": "WD",
+        "pwr2": "WD",
+        "eth_ports": "6",
+        "poe_ports": "",
+        "fiber_19": "",
+        "sfp": "2"
+      }
+    ],
+    "specs": {
+      "标准": "IEEE 802.3, 802.3u, 802.3at/af",
+      "VLAN": "支持802.1Q VLAN",
+      "端口管理": "支持端口速率/双工/流控配置",
+      "MAC地址表": "支持静态配置，可配置老化时间",
+      "设备管理": "http/https/Telnet/SSH/SNMP V1/2/3",
+      "安全": "支持用户权限分级",
+      "电口": "RJ45, 10/100Mbps自适应",
+      "光口": "1*9: SC/ST/FC可选; SFP: LC/SC可选",
+      "电源": "WD: 12-57VDC",
+      "安装方式": "DIN导轨式",
+      "工作温度": "-40°C ~ +75°C"
+    }
+  },
+  {
+    "id": "axs6109",
+    "series": "AXS6109",
+    "name": "AXS6109系列",
+    "title": "9口千兆管理型导轨式交换机",
+    "category": "管理型",
+    "speed": "千兆",
+    "ports": 9,
+    "image": "/products/axs5110_product.png",
+    "dimensions": "/products/axs6109_dimensions.png",
+    "description": "9口千兆管理型导轨式交换机，千兆速率+网管功能",
+    "features": [
+      "支持802.1Q VLAN、端口管理、MAC地址表管理",
+      "支持QoS优先级控制",
+      "支持设备用户权限分级管理",
+      "支持http/https/Telnet/SSH设备管理接口",
+      "支持SNMP V1/2/3网络管理",
+      "千兆速率，满足高带宽传输需求",
+      "DIN导轨式安装，适应工业环境"
+    ],
+    "models": [
+      {
+        "model": "AXS6109D-3GX-6GR",
+        "pwr1": "WD",
+        "pwr2": "WD",
+        "eth_ports": "6",
+        "poe_ports": "",
+        "fiber_19": "3",
+        "sfp": ""
+      },
+      {
+        "model": "AXS6109D-2GX-6GR",
+        "pwr1": "WD",
+        "pwr2": "WD",
+        "eth_ports": "6",
+        "poe_ports": "",
+        "fiber_19": "2",
+        "sfp": ""
+      },
+      {
+        "model": "AXS6109D-3GF-6GR",
+        "pwr1": "WD",
+        "pwr2": "WD",
+        "eth_ports": "6",
+        "poe_ports": "",
+        "fiber_19": "",
+        "sfp": "3"
+      },
+      {
+        "model": "AXS6109D-2GF-6GR",
+        "pwr1": "WD",
+        "pwr2": "WD",
+        "eth_ports": "6",
+        "poe_ports": "",
+        "fiber_19": "",
+        "sfp": "2"
+      }
+    ],
+    "specs": {
+      "标准": "IEEE 802.3, 802.3u, 802.3z, 802.3ab, 802.3at/af",
+      "VLAN": "支持802.1Q VLAN",
+      "QoS": "支持IEEE 802.1p QoS",
+      "端口管理": "支持端口速率/双工/流控配置",
+      "MAC地址表": "支持静态配置，可配置老化时间",
+      "设备管理": "http/https/Telnet/SSH/SNMP V1/2/3",
+      "电口": "RJ45, 10/100/1000Mbps自适应",
+      "光口": "1*9: SC/ST/FC可选; SFP: LC/FC可选",
+      "电源": "WD: 12-57VDC",
+      "安装方式": "DIN导轨式",
+      "工作温度": "-40°C ~ +75°C"
+    }
+  },
+  {
+    "id": "axs6111",
+    "series": "AXS6111",
+    "name": "AXS6111系列",
+    "title": "11口千兆管理型导轨式交换机",
+    "category": "管理型",
+    "speed": "千兆",
+    "ports": 11,
+    "image": "/products/axs5110_product.png",
+    "dimensions": "/products/axs6109_dimensions.png",
+    "description": "11口千兆管理型导轨式交换机，支持BYPASS功能",
+    "features": [
+      "支持Access/Trunk/Hybrid VLAN模式",
+      "支持GVRP/MVRP动态VLAN注册",
+      "支持链路聚合(802.3ad)",
+      "支持BYPASS故障保护功能",
+      "支持QoS优先级控制",
+      "支持SNMP V1/2/3网络管理",
+      "11个接口，高密度端口设计"
+    ],
+    "models": [
+      {
+        "model": "AXS6111D-2GX-8GR",
+        "pwr1": "WD",
+        "pwr2": "WD",
+        "eth_ports": "8",
+        "poe_ports": "",
+        "fiber_19": "2",
+        "sfp": "",
+        "bypass": ""
+      },
+      {
+        "model": "AXS6111D-3GF-8GR",
+        "pwr1": "WD",
+        "pwr2": "WD",
+        "eth_ports": "8",
+        "poe_ports": "",
+        "fiber_19": "",
+        "sfp": "3",
+        "bypass": ""
+      },
+      {
+        "model": "AXS6111D-2GX-8GR-EP",
+        "pwr1": "WD",
+        "pwr2": "WD",
+        "eth_ports": "8",
+        "poe_ports": "",
+        "fiber_19": "2",
+        "sfp": "",
+        "bypass": "√"
+      },
+      {
+        "model": "AXS6111D-2GX-8GR-8POE",
+        "pwr1": "ND",
+        "pwr2": "ND",
+        "eth_ports": "8",
+        "poe_ports": "8",
+        "fiber_19": "2",
+        "sfp": "",
+        "bypass": ""
+      }
+    ],
+    "specs": {
+      "标准": "IEEE 802.3, 802.3u, 802.3z, 802.3ab, 802.3x, 802.3ad, 802.1Q, 802.1p, 802.1D, 802.3at/af",
+      "VLAN": "Access/Trunk/Hybrid; GVRP/MVRP; VLAN映射; 私有VLAN",
+      "链路聚合": "支持802.3ad",
+      "QoS": "支持IEEE 802.1p",
+      "BYPASS": "可选配",
+      "设备管理": "http/https/Telnet/SSH/SNMP V1/2/3/RMON",
+      "安全": "用户权限分级; RADIUS/TACACS认证; 访问管理",
+      "电口": "RJ45, 10/100/1000Mbps自适应",
+      "光口": "1*9: SC/ST/FC可选; SFP可选",
+      "电源": "WD: 12-57VDC; ND: 44-57VDC",
+      "安装方式": "DIN导轨式",
+      "工作温度": "-40°C ~ +75°C"
+    }
+  },
+  {
+    "id": "axs6105",
+    "series": "AXS6105",
+    "name": "AXS6105系列",
+    "title": "5口工业级无线路由器",
+    "category": "无线产品",
+    "speed": "千兆",
+    "ports": 5,
+    "image": "/products/axs6105_product.png",
+    "dimensions": "/products/axs6105_dimensions.jpg",
+    "description": "5口工业级无线路由器，支持4G/5G无线接入",
+    "features": [
+      "5个千兆电口，满足高速数据传输",
+      "支持4G/5G无线网络接入",
+      "工业级设计，适应严苛环境",
+      "支持多种VPN协议",
+      "支持DIN导轨安装",
+      "宽温工作范围"
+    ],
+    "models": [
+      {
+        "model": "AXS6105-5GR-4G",
+        "pwr1": "WD",
+        "pwr2": "WD",
+        "eth_ports": "5",
+        "wireless": "4G LTE"
+      },
+      {
+        "model": "AXS6105-5GR-5G",
+        "pwr1": "WD",
+        "pwr2": "WD",
+        "eth_ports": "5",
+        "wireless": "5G"
+      }
+    ],
+    "specs": {
+      "标准": "IEEE 802.3, 802.3u, 802.3z, 802.3ab",
+      "电口": "5×RJ45, 10/100/1000Mbps自适应",
+      "无线": "4G LTE/5G可选",
+      "VPN": "支持IPSec/PPTP/L2TP/GRE",
+      "电源": "WD: 12-57VDC; ND: 44-57VDC; AC: 85-265VAC",
+      "安装方式": "DIN导轨式",
+      "防护等级": "IP40",
+      "工作温度": "-40°C ~ +75°C"
+    }
+  },
+  {
+    "id": "axs6226",
+    "series": "AXS6226",
+    "name": "AXS6226系列",
+    "title": "26口机架式千兆管理型交换机",
+    "category": "机架式",
+    "speed": "千兆",
+    "ports": 26,
+    "image": "/products/axs6226_product.png",
+    "dimensions": "/products/axs6226_dimensions.jpg",
+    "description": "26口机架式千兆管理型交换机，适合数据中心和机房部署",
+    "features": [
+      "24个千兆电口+2个千兆光口",
+      "支持802.1Q VLAN、链路聚合",
+      "支持QoS优先级控制",
+      "支持SNMP网络管理",
+      "1U机架式设计，适合机房部署",
+      "AC 85-265VAC供电"
+    ],
+    "models": [
+      {
+        "model": "AXS6226A-2GF-24GR",
+        "pwr1": "AC",
+        "eth_ports": "24",
+        "sfp": "2"
+      },
+      {
+        "model": "AXS6226A-2GF-16GR",
+        "pwr1": "AC",
+        "eth_ports": "16",
+        "sfp": "2"
+      },
+      {
+        "model": "AXS6226A-10GF-16GR",
+        "pwr1": "AC",
+        "eth_ports": "16",
+        "sfp": "10"
+      }
+    ],
+    "specs": {
+      "标准": "IEEE 802.3, 802.3u, 802.3z, 802.3ab, 802.3x, 802.3ad, 802.1Q, 802.1p",
+      "电口": "RJ45, 10/100/1000Mbps自适应",
+      "光口": "SFP可选",
+      "VLAN": "支持802.1Q",
+      "链路聚合": "支持802.3ad",
+      "设备管理": "http/https/Telnet/SSH/SNMP",
+      "电源": "AC: 85-265VAC",
+      "安装方式": "1U机架式",
+      "工作温度": "0°C ~ +50°C"
+    }
+  },
+  {
+    "id": "axs7336",
+    "series": "AXS7336",
+    "name": "AXS7336系列",
+    "title": "36口机架式万兆三层交换机",
+    "category": "机架式",
+    "speed": "万兆",
+    "ports": 36,
+    "image": "/products/axs7336_product.png",
+    "dimensions": "/products/axs7336_dimensions.jpg",
+    "description": "36口机架式万兆三层交换机，支持三层路由功能",
+    "features": [
+      "支持三层路由协议",
+      "万兆上联，满足核心层组网需求",
+      "支持RIP/OSPF等路由协议",
+      "支持VLAN间路由",
+      "支持DHCP Server/Relay",
+      "模块化设计，灵活配置"
+    ],
+    "models": [
+      {
+        "model": "AXS7336A",
+        "pwr1": "AC",
+        "ports": "24千兆+4万兆+1 LTE+1 NTP"
+      },
+      {
+        "model": "AXS7336B",
+        "pwr1": "AC",
+        "pwr2": "AC",
+        "ports": "24千兆+4万兆+1 LTE+1 NTP"
+      },
+      {
+        "model": "AXS7336C",
+        "pwr1": "ND",
+        "ports": "24千兆+4万兆+1 LTE+1 NTP"
+      }
+    ],
+    "specs": {
+      "标准": "IEEE 802.3, 802.3u, 802.3z, 802.3ab, 802.3ae, 802.3x, 802.3ad, 802.1Q",
+      "路由": "支持RIP/OSPF静态路由",
+      "VLAN": "支持VLAN间路由",
+      "DHCP": "支持Server/Relay",
+      "端口": "千兆模块接口+万兆SFP+",
+      "无线": "支持5G/LTE模块",
+      "电源": "AC/ND可选",
+      "安装方式": "机架式",
+      "工作温度": "0°C ~ +50°C"
+    }
+  }
+]
